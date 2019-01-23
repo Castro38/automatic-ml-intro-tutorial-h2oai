@@ -1,4 +1,4 @@
-# automatic-ml-intro-tutorial-h2oai
+# Automatic ML Intro Tutorial H2O.ai
 
 The RMS Titanic was a British commercial passenger liner that sank after colliding with an iceberg in the North Atlantic Ocean on April 15, 1912. More than 1,500 people lost their lives from an estimated 2,224 passengers and crew members while on their way to New York City from Southampton. 
 
