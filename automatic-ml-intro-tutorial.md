@@ -4,7 +4,7 @@
 ## Outline:
 - [Objective](#objective)
 - [Prerequisites](#prerequisites)
-- [Task 1: Get Environment and Product Tour](#taks-1-get-environment-and-product-tour)
+- [Task 1: Get Environment and Product Tour](#task-1-get-environment-and-product-tour)
 - [Task 2: Automatic Machine Learning Concepts](#task-2-automatic-machine-learning-concepts)
 - [Task 3: Load Data](#task-3-load-data)
 - [Task 4: Explore Data Details and AutoViz](#task-4-explore-data-details-and-autoviz)
