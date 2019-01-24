@@ -407,11 +407,13 @@ This column was dropped because we are going to use the original column ‘name�
 
 5\. Now select the **Target Column**, in our case the column will be ‘survived’
 
+![survived-target-column](assets/survived-target-column.jpg)
+
 The survived attribute was selected because as an insurance company we want to know what  other attributes can contribute to the survival of passengers aboard a ship and incorporate that into our insurance rates.
 
 6\. Your Experiment page should look like the one below:
 
-![experiment-settings](assets/train-set-drop-name-column.jpg)
+![experiment-settings](assets/experiment-settings.jpg)
 
 *Things to note:*
 1. Assistant - Highlights the different items that you can hover over and get additional information on
@@ -501,9 +503,9 @@ The complete list of features used in the final model is available in the Experi
 
 Let’s explore the results of the experiment to determine how good the generated model is. The results are found on the **Experiment Summary** at the left-bottom of Experiment page.
 
-1\. Summary
-
 ![experiment-summary-expanded](assets/experiment-summary-expanded.jpg)
+
+1\. Summary
 
 - How many features were tested and selected?
 - How many models were trained for feature evolution?
