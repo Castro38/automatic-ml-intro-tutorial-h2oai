@@ -14,7 +14,7 @@
 - [Task 8: MLI Report](#task-8-mli-report)
 - [Task 9: AutoDocs](#task-9-autodocs) 
 - [Taks 10: Experiment Summary](#task-10-experiment-summary)
-- [Task 10: Challenge](#task-10-challenge)
+- [Task 11: Challenge](#task-11-challenge)
 
 ## Objective
 
@@ -685,7 +685,7 @@ When you open the zip file the following files should be included:
 
 - [Review this Webinar “Peek Under the Hood of H2O Driverless AI with Auto Doc”](https://www.brighttalk.com/webcast/16463/332693/peek-under-the-hood-of-h2o-driverless-ai-with-auto-doc) 
 
-## Task 10: Challenge
+## Task 11: Challenge
 
 Using the CreditCard dataset identify predict whether someone will default  on their Credit Card Payment.  Based on a customer’s past behavior, can we predict if they will default on a credit card payment?   Based on the information known at the start of a loan, can we predict if the loan will be fully paid off?
 
